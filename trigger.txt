@@ -1,2 +1,2 @@
 alpine:20240606 registry.cn-hangzhou.aliyuncs.com/x007/alpine:20240606
-nginx:alpine registry.cn-hangzhou.aliyuncs.com/x007/nginx:alpine
+nginx:alpine registry.cn-hangzhou.aliyuncs.com/x007/nginx:alpine 
