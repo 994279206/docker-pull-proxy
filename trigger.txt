@@ -1,2 +1,2 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
-nginx:alpine registry.cn-beijing.aliyuncs.com/ijx-public/nginx:alpine
+alpine:20240606 registry.cn-hangzhou.aliyuncs.com/x007/alpine:20240606
+nginx:alpine registry.cn-hangzhou.aliyuncs.com/x007/nginx:alpine
