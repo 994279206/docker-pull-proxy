@@ -3,3 +3,5 @@ nginx:alpine registry.cn-hangzhou.aliyuncs.com/x007/nginx:alpine
 nsqio/nsq:latest registry.cn-hangzhou.aliyuncs.com/x007/nsq:latest
 zilliz/attu:v2.2.6 registry.cn-hangzhou.aliyuncs.com/x007/zilliz-attu:latest
 redis:latest registry.cn-hangzhou.aliyuncs.com/x007/redis:latest
+metabase/metabase:latest registry.cn-hangzhou.aliyuncs.com/x007/metabase:latest
+postgres:latest registry.cn-hangzhou.aliyuncs.com/x007/postgres:latest
