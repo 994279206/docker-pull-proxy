@@ -7,3 +7,4 @@ metabase/metabase:latest registry.cn-hangzhou.aliyuncs.com/x007/metabase:latest
 postgres:latest registry.cn-hangzhou.aliyuncs.com/x007/postgres:latest
 apache/rocketmq:5.3.0 registry.cn-hangzhou.aliyuncs.com/x007/rocketmq:5.3.0
 apacherocketmq/rocketmq-dashboard:latest registry.cn-hangzhou.aliyuncs.com/x007/rocketmq-dashboard:latest
+eipwork/kuboard-spray:latest-amd64 registry.cn-hangzhou.aliyuncs.com/x007/kuboard-spray:latest-amd64
