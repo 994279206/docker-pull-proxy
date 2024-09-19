@@ -9,3 +9,4 @@ apache/rocketmq:5.3.0 registry.cn-hangzhou.aliyuncs.com/x007/rocketmq:5.3.0
 apacherocketmq/rocketmq-dashboard:latest registry.cn-hangzhou.aliyuncs.com/x007/rocketmq-dashboard:latest
 eipwork/kuboard-spray:latest-amd64 registry.cn-hangzhou.aliyuncs.com/x007/kuboard-spray:latest-amd64
 alpine:3.15.0 registry.cn-hangzhou.aliyuncs.com/x007/alpine:3.15.0
+registry.k8s.io/metrics-server/metrics-server:v0.7.2 registry.cn-hangzhou.aliyuncs.com/x007/metrics-server:v0.7.2
