@@ -10,4 +10,4 @@ apacherocketmq/rocketmq-dashboard:latest registry.cn-hangzhou.aliyuncs.com/x007/
 eipwork/kuboard-spray:latest-amd64 registry.cn-hangzhou.aliyuncs.com/x007/kuboard-spray:latest-amd64
 alpine:3.15.0 registry.cn-hangzhou.aliyuncs.com/x007/alpine:3.15.0
 registry.k8s.io/metrics-server/metrics-server:v0.7.2 registry.cn-hangzhou.aliyuncs.com/x007/metrics-server:v0.7.2
-aingdesk/aingdesk:latest registry.cn-hangzhou.aliyuncs.com/x007/aingdesk:latest
+aingdesk/aingdesk:latest registry.cn-hangzhou.aliyuncs.com/xfk/aingdesk:latest
